@@ -1,0 +1,9 @@
+combat
+enemies
+environment
+fluids
+intermediate-products
+logistics
+other
+production
+signals

@@ -1,0 +1,9 @@
+advanced-crafting
+basic-crafting
+centrifuging
+chemistry
+crafting
+crafting-with-fluid
+oil-processing
+rocket-building
+smelting
